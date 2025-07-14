@@ -4,6 +4,7 @@ A retro-style inspired maze survival game  built with Python + Pygame, developed
 You must outsmart enemies, collect food for ammo, and find the maze exit before you're caught!
 
 For full details, check out  → [See devlog.md](./devlog.md)
+For issues and how I found a way around some, check out →  [See issues.md](./issues.md)
 
 
  Overview
