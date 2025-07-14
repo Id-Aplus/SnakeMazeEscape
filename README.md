@@ -1,4 +1,4 @@
-FOLDER NAME = SnakeMazeEscape
+NAME = SnakeMazeEscape
 
 A retro-style inspired maze survival game  built with Python + Pygame, developed using Amazon Q Developer CLI inside VS Code for the Build Games Challenge.
 You must outsmart enemies, collect food for ammo, and find the maze exit before you're caught!
