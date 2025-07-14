@@ -5,7 +5,7 @@ You must outsmart enemies, collect food for ammo, and find the maze exit before 
 
 For full details, check out  → [See devlog.md](./devlog.md)
 For issues and how I found a way around some, check out →  [See issues.md](./issues.md)
-For screenshots on the process and game screen, check out  → ### 🟩 Main Menu Screen  
+For screenshots on the process and game screen, check out  →### 🟩 Main Menu Screen  
 ![Main Menu](MEDIA/MAIN%20MENU.png)
 
 ### 🌀 Gameplay in Action  
@@ -13,6 +13,7 @@ For screenshots on the process and game screen, check out  → ### 🟩 Main Men
 
 ### 🔧 Backend Command Line (CLI) Interface  
 ![CLI Output](MEDIA/snakey%20maze%20CLI.png)
+
 
 
 
