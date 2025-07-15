@@ -50,6 +50,51 @@ NOTE : Git was **not used** due to installation issues. Repository created via m
 
 
 
+ ▶️ How to Run the Game
+
+Follow these steps to play **SnakeMazeEscape** on your system:
+
+ ✅ Requirements
+
+- Python 3.10 or higher
+- Pygame (tested on version 2.6.1)
+
+ 📦 Installation
+
+1. **Install Python:**  
+   If you don’t have it yet, download and install Python from [https://www.python.org](https://www.python.org)
+
+2. **Install Pygame:**  
+   Open a terminal or command prompt and run:
+
+   ```bash
+   pip install pygame
+
+   Download the Game:
+
+Click the green "Code" button on this repository page
+
+Select "Download ZIP"
+
+Extract it to your preferred folder
+
+Run the Game:
+
+Navigate to the extracted folder and run:
+
+python main.py
+
+❓ Having Issues?
+If you experience errors:
+
+Confirm that pygame is installed properly
+
+Make sure you're running main.py from the correct folder
+
+Check the CLI output for clues
+
+
+
 ## 🧱 Features (Base Version)
 
  ✅ Procedural maze with entrance/exit
